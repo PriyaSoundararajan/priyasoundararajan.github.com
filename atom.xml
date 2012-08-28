@@ -4,7 +4,7 @@
   <title><![CDATA[Hakuna Matata]]></title>
   <link href="http://PriyaSoundararajan.github.com/atom.xml" rel="self"/>
   <link href="http://PriyaSoundararajan.github.com/"/>
-  <updated>2012-08-28T22:51:56+05:30</updated>
+  <updated>2012-08-28T23:09:39+05:30</updated>
   <id>http://PriyaSoundararajan.github.com/</id>
   <author>
     <name><![CDATA[Priya Soundararajan]]></name>
@@ -30,17 +30,18 @@ Not much, since I haven&#8217;t posted anything and I am still learning.</p></bl
     <link href="http://PriyaSoundararajan.github.com/blog/2012/08/28/art-book/"/>
     <updated>2012-08-28T19:46:00+05:30</updated>
     <id>http://PriyaSoundararajan.github.com/blog/2012/08/28/art-book</id>
-    <content type="html"><![CDATA[<h4>Clockwork Orange</h4>
+    <content type="html"><![CDATA[<p><link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link></p>
+
+<h4>Clockwork Orange</h4>
 
 <p><img src="images/orange.JPG" width="500" height="400" title="clockwork orange" ></p>
 
-<h4>Small Face</h4>
+<p>Drawing realistic faces turned out to be harder than I thought !Manga faces are fun to draw and require little time.</p>
 
 <p><img src="images/nonsense.JPG" width="500" height="300"></p>
 
-<h4>Dark Circles</h4>
-
-<p><img src="images/darkCircle.JPG" width="600" height="500"></p>
+<p>This was from a picture of a little girl looking up.Often drawings dont end up like you want them to , but as something else. This was one of them .
+<img src="images/darkCircle.JPG" width="600" height="500"></p>
 ]]></content>
   </entry>
   
